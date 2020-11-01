@@ -1,0 +1,64 @@
+{
+  "title": "Technology Videos",
+  "story": [
+    {
+      "type": "video",
+      "id": "84b2172ee95ce216",
+      "text": "YOUTUBE Rnm83GqgqPE\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "24c90a9f8e3241bc",
+      "text": "[[Machine Learning]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Technology Videos",
+        "story": []
+      },
+      "date": 1473003077055
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "84b2172ee95ce216"
+      },
+      "id": "84b2172ee95ce216",
+      "type": "add",
+      "date": 1473003079546
+    },
+    {
+      "type": "edit",
+      "id": "84b2172ee95ce216",
+      "item": {
+        "type": "video",
+        "id": "84b2172ee95ce216",
+        "text": "YOUTUBE Rnm83GqgqPE\n"
+      },
+      "date": 1473003111743
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "24c90a9f8e3241bc"
+      },
+      "id": "24c90a9f8e3241bc",
+      "type": "add",
+      "after": "84b2172ee95ce216",
+      "date": 1473003167293
+    },
+    {
+      "type": "edit",
+      "id": "24c90a9f8e3241bc",
+      "item": {
+        "type": "paragraph",
+        "id": "24c90a9f8e3241bc",
+        "text": "[[Machine Learning]]"
+      },
+      "date": 1473003190969
+    }
+  ]
+}
