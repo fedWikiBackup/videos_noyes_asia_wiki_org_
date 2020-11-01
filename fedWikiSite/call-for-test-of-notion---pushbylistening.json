@@ -1,0 +1,91 @@
+{
+  "title": "Call for test of notion - PushByListening",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "8c55fa53fde3a072",
+      "text": "Let me start the testing using a local-hosted server site (lets use port 9211) since it knows about over 30000 SFW pages and over 300 sites."
+    },
+    {
+      "type": "paragraph",
+      "id": "b0dfda2298c4370c",
+      "text": "First chore: locate where in the script the process which produces Recent Changes resides."
+    },
+    {
+      "type": "paragraph",
+      "id": "1736c1cd25a8455c",
+      "text": "Possible code location: It might be we can do this within the activity.js file in the client subdirectory of the node-module for the activity plugin."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Call for test of notion - PushByListening",
+        "story": []
+      },
+      "date": 1479230524564
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8c55fa53fde3a072"
+      },
+      "id": "8c55fa53fde3a072",
+      "type": "add",
+      "date": 1479230527287
+    },
+    {
+      "type": "edit",
+      "id": "8c55fa53fde3a072",
+      "item": {
+        "type": "paragraph",
+        "id": "8c55fa53fde3a072",
+        "text": "Let me start the testing using a local-hosted server site (lets use port 9211) since it knows about over 30000 SFW pages."
+      },
+      "date": 1479230653159
+    },
+    {
+      "type": "edit",
+      "id": "8c55fa53fde3a072",
+      "item": {
+        "type": "paragraph",
+        "id": "8c55fa53fde3a072",
+        "text": "Let me start the testing using a local-hosted server site (lets use port 9211) since it knows about over 30000 SFW pages and over 300 sites."
+      },
+      "date": 1479230708421
+    },
+    {
+      "type": "add",
+      "id": "b0dfda2298c4370c",
+      "item": {
+        "type": "paragraph",
+        "id": "b0dfda2298c4370c",
+        "text": "First chore: locate where in the script the process which produces Recent Changes resides."
+      },
+      "after": "8c55fa53fde3a072",
+      "date": 1479230753064
+    },
+    {
+      "type": "add",
+      "id": "1736c1cd25a8455c",
+      "item": {
+        "type": "paragraph",
+        "id": "1736c1cd25a8455c",
+        "text": "It might be we can do this within the activity.js file in the client subdirectory of the node-module for the activity plugin."
+      },
+      "after": "b0dfda2298c4370c",
+      "date": 1479231618876
+    },
+    {
+      "type": "edit",
+      "id": "1736c1cd25a8455c",
+      "item": {
+        "type": "paragraph",
+        "id": "1736c1cd25a8455c",
+        "text": "Possible code location: It might be we can do this within the activity.js file in the client subdirectory of the node-module for the activity plugin."
+      },
+      "date": 1479231646664
+    }
+  ]
+}

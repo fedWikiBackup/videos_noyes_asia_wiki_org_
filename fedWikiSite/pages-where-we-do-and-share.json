@@ -1,0 +1,130 @@
+{
+  "title": "Pages where we do and share",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "b931672ee2b42eba",
+      "text": "[[Noyes sites pages]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "6d4e10c01be18429",
+      "text": "[[some tricks and novel usages]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Pages where we do and share",
+        "story": []
+      },
+      "date": 1473002851909
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "925cc654ffd623a9"
+      },
+      "id": "925cc654ffd623a9",
+      "type": "add",
+      "date": 1473002855241
+    },
+    {
+      "type": "edit",
+      "id": "925cc654ffd623a9",
+      "item": {
+        "type": "roster",
+        "id": "925cc654ffd623a9",
+        "text": "site\nvideos.noyes.asia.wiki.org"
+      },
+      "date": 1473002901646
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "cbc7407e69014613"
+      },
+      "id": "cbc7407e69014613",
+      "type": "add",
+      "after": "925cc654ffd623a9",
+      "date": 1473002904795
+    },
+    {
+      "type": "edit",
+      "id": "cbc7407e69014613",
+      "item": {
+        "type": "roster",
+        "id": "cbc7407e69014613",
+        "text": "ROSTER site"
+      },
+      "date": 1473002930820
+    },
+    {
+      "type": "remove",
+      "id": "cbc7407e69014613",
+      "date": 1473002962183
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "activity",
+        "id": "e9e9f102158e1382"
+      },
+      "after": "925cc654ffd623a9",
+      "id": "e9e9f102158e1382",
+      "date": 1473002983191
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b931672ee2b42eba"
+      },
+      "id": "b931672ee2b42eba",
+      "type": "add",
+      "after": "e9e9f102158e1382",
+      "date": 1475667223957
+    },
+    {
+      "type": "edit",
+      "id": "b931672ee2b42eba",
+      "item": {
+        "type": "paragraph",
+        "id": "b931672ee2b42eba",
+        "text": "[[This sites pages]]"
+      },
+      "date": 1475667242398
+    },
+    {
+      "type": "remove",
+      "id": "925cc654ffd623a9",
+      "date": 1475667249195
+    },
+    {
+      "type": "remove",
+      "id": "e9e9f102158e1382",
+      "date": 1475667252506
+    },
+    {
+      "type": "edit",
+      "id": "b931672ee2b42eba",
+      "item": {
+        "type": "paragraph",
+        "id": "b931672ee2b42eba",
+        "text": "[[Noyes sites pages]]"
+      },
+      "date": 1475667389983
+    },
+    {
+      "type": "add",
+      "id": "6d4e10c01be18429",
+      "item": {
+        "type": "paragraph",
+        "id": "6d4e10c01be18429",
+        "text": "[[some tricks and novel usages]]"
+      },
+      "after": "b931672ee2b42eba",
+      "date": 1479231765767
+    }
+  ]
+}

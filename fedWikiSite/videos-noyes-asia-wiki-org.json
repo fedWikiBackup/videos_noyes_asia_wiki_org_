@@ -1,0 +1,44 @@
+{
+  "title": "videos noyes asia wiki org",
+  "story": [
+    {
+      "type": "roster",
+      "id": "925cc654ffd623a9",
+      "text": "sitename\nvideos.noyes.asia.wiki.org"
+    },
+    {
+      "type": "activity",
+      "id": "e9e9f102158e1382"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "videos noyes asia wiki org",
+        "story": []
+      },
+      "date": 1475667344977
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "roster",
+        "id": "925cc654ffd623a9",
+        "text": "sitename\nvideos.noyes.asia.wiki.org"
+      },
+      "id": "925cc654ffd623a9",
+      "date": 1475667347936
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "activity",
+        "id": "e9e9f102158e1382"
+      },
+      "after": "925cc654ffd623a9",
+      "id": "e9e9f102158e1382",
+      "date": 1475667352993
+    }
+  ]
+}

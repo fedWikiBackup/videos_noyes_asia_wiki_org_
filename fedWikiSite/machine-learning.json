@@ -1,0 +1,64 @@
+{
+  "title": "Machine Learning",
+  "story": [
+    {
+      "type": "video",
+      "id": "474de64b530e86c2",
+      "text": "YOUTUBE Rnm83GqgqPE\nat Google IO"
+    },
+    {
+      "type": "video",
+      "id": "b126dae068b008f5",
+      "text": "YOUTUBE sphFCJE1HkI\nInnovations"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Machine Learning",
+        "story": []
+      },
+      "date": 1473003195853
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "474de64b530e86c2"
+      },
+      "id": "474de64b530e86c2",
+      "type": "add",
+      "date": 1473003412335
+    },
+    {
+      "type": "edit",
+      "id": "474de64b530e86c2",
+      "item": {
+        "type": "video",
+        "id": "474de64b530e86c2",
+        "text": "YOUTUBE Rnm83GqgqPE\nat Google IO"
+      },
+      "date": 1473003446790
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b126dae068b008f5"
+      },
+      "id": "b126dae068b008f5",
+      "type": "add",
+      "after": "474de64b530e86c2",
+      "date": 1473003498616
+    },
+    {
+      "type": "edit",
+      "id": "b126dae068b008f5",
+      "item": {
+        "type": "video",
+        "id": "b126dae068b008f5",
+        "text": "YOUTUBE sphFCJE1HkI\nInnovations"
+      },
+      "date": 1473003535595
+    }
+  ]
+}

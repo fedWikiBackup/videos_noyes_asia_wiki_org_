@@ -1,0 +1,164 @@
+{
+  "title": "Historical and Daily Urls of interest",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "d17e406b54a60ab6",
+      "text": "[[I have this notion]]: "
+    },
+    {
+      "type": "paragraph",
+      "id": "5843f48e0bc3c52e",
+      "text": "Bookmarking sites I want to remember by:"
+    },
+    {
+      "type": "paragraph",
+      "id": "63c99c0191390b98",
+      "text": "Using drag and drop and an old-fashioned 3.5 inch floppy drive to save its url in a sub-directory named - [[Historical and Daily Urls of interest]]."
+    },
+    {
+      "type": "paragraph",
+      "id": "78e849ce10f851f1",
+      "text": "Then I can find a site visited I remembered having saved to floppy, by accessing the floppy directory and going to the site with a simple [[double-click of the mouse]]."
+    },
+    {
+      "type": "paragraph",
+      "id": "a789a055f9a11fd0",
+      "text": "ANY type file stored at an url. (page, photo, video, pdf, spreadsheet, current line-up of SFW pages, icons, etc.)"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Historical and Daily Urls of interest",
+        "story": []
+      },
+      "date": 1479232236128
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "d17e406b54a60ab6",
+        "text": "I have a notion: Use drag and drop and an old-fashioned 3.5 inch floppy drive for [[Historical and Daily Urls of interest]]."
+      },
+      "id": "d17e406b54a60ab6",
+      "date": 1479232240319
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "78e849ce10f851f1",
+        "text": "Then I can find a site visited I remembered having saved to floppy, by accessing the floppy directory and going to the site with a simple [[double-click of the mouse]]."
+      },
+      "after": "d17e406b54a60ab6",
+      "id": "78e849ce10f851f1",
+      "date": 1479232243185
+    },
+    {
+      "type": "edit",
+      "id": "d17e406b54a60ab6",
+      "item": {
+        "type": "paragraph",
+        "id": "d17e406b54a60ab6",
+        "text": "I have a notion: Use drag and drop and an old-fashioned 3.5 inch floppy drive in the sub-directory named - [[Historical and Daily Urls of interest]]."
+      },
+      "date": 1479232302010
+    },
+    {
+      "type": "edit",
+      "id": "d17e406b54a60ab6",
+      "item": {
+        "type": "paragraph",
+        "id": "d17e406b54a60ab6",
+        "text": "I have this notion: "
+      },
+      "date": 1479232383784
+    },
+    {
+      "type": "add",
+      "id": "63c99c0191390b98",
+      "item": {
+        "type": "paragraph",
+        "id": "63c99c0191390b98",
+        "text": "Use drag and drop and an old-fashioned 3.5 inch floppy drive to save the particular url in a sub-directory named - [[Historical and Daily Urls of interest]]."
+      },
+      "after": "d17e406b54a60ab6",
+      "date": 1479232392373
+    },
+    {
+      "type": "edit",
+      "id": "d17e406b54a60ab6",
+      "item": {
+        "type": "paragraph",
+        "id": "d17e406b54a60ab6",
+        "text": "[[I have this notion]]: "
+      },
+      "date": 1479232406318
+    },
+    {
+      "type": "add",
+      "id": "5843f48e0bc3c52e",
+      "item": {
+        "type": "paragraph",
+        "id": "5843f48e0bc3c52e",
+        "text": "Bookmarking sites I want to remember by:"
+      },
+      "after": "d17e406b54a60ab6",
+      "date": 1479232524747
+    },
+    {
+      "type": "edit",
+      "id": "63c99c0191390b98",
+      "item": {
+        "type": "paragraph",
+        "id": "63c99c0191390b98",
+        "text": "Using drag and drop and an old-fashioned 3.5 inch floppy drive to save the particular url in a sub-directory named - [[Historical and Daily Urls of interest]]."
+      },
+      "date": 1479232532663
+    },
+    {
+      "type": "edit",
+      "id": "63c99c0191390b98",
+      "item": {
+        "type": "paragraph",
+        "id": "63c99c0191390b98",
+        "text": "Using drag and drop and an old-fashioned 3.5 inch floppy drive to save its url in a sub-directory named - [[Historical and Daily Urls of interest]]."
+      },
+      "date": 1479232588059
+    },
+    {
+      "type": "add",
+      "id": "a789a055f9a11fd0",
+      "item": {
+        "type": "paragraph",
+        "id": "a789a055f9a11fd0",
+        "text": "ANY url."
+      },
+      "after": "78e849ce10f851f1",
+      "date": 1479232676582
+    },
+    {
+      "type": "edit",
+      "id": "a789a055f9a11fd0",
+      "item": {
+        "type": "paragraph",
+        "id": "a789a055f9a11fd0",
+        "text": "ANY type file stored at an url. (page, photo, video, pdf, spreadsheet,etc.)"
+      },
+      "date": 1479232745252
+    },
+    {
+      "type": "edit",
+      "id": "a789a055f9a11fd0",
+      "item": {
+        "type": "paragraph",
+        "id": "a789a055f9a11fd0",
+        "text": "ANY type file stored at an url. (page, photo, video, pdf, spreadsheet, current line-up of SFW pages, icons, etc.)"
+      },
+      "date": 1479232949924
+    }
+  ]
+}

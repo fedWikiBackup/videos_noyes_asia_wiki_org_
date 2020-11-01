@@ -1,0 +1,389 @@
+{
+  "title": "Software simplicity",
+  "story": [
+    {
+      "type": "html",
+      "id": "7b19955cfe8ee9d4",
+      "text": "<i>Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius - and a lot of courage - to move in the opposite direction.</i>\n<hr>\n-- Albert Einstein"
+    },
+    {
+      "type": "video",
+      "id": "8c936157ed296299",
+      "text": "YOUTUBE XBpwysZtkkQ\nWould you believe Hypercard?"
+    },
+    {
+      "type": "paragraph",
+      "id": "2b89668c4f7aa013",
+      "text": "Published on Jan 25, 2016\n\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "74dec2c7b8d68ad0",
+      "text": "Say you have started a book club. You need to coordinate with the members to choose books to read, schedule meetings, decide who is bringing the wine and cheese, etc. "
+    },
+    {
+      "type": "paragraph",
+      "id": "d9997af53e6d57c5",
+      "text": "You probably use some spreadsheets, some web services like message forums and polls — and make it all work with a flood of email. "
+    },
+    {
+      "type": "paragraph",
+      "id": "8df0f09cfd51cdaa",
+      "text": "You watch your life passing by as you robotically copy and paste between email and spreadsheets and all these services. "
+    },
+    {
+      "type": "paragraph",
+      "id": "a97e2e29a5e64d2f",
+      "text": "What you want is a custom website like a Rails app or a Drupal installation, but you were an English major. "
+    },
+    {
+      "type": "paragraph",
+      "id": "968b4f7babd3e95c",
+      "text": "What you need is a tool as easy to learn as a spreadsheet or [[HyperCard]]."
+    },
+    {
+      "type": "paragraph",
+      "id": "6f973f96c308cb2f",
+      "text": "It should be one designed to build ad-hoc social applications. "
+    },
+    {
+      "type": "paragraph",
+      "id": "eae47d5c065b0256",
+      "text": "Of course it should be at home on the dominant platform for social software: [[smartphones]]."
+    },
+    {
+      "type": "video",
+      "id": "a3ea13ea0ef9ebac",
+      "text": "VIMEO 179904952\nCall it Chorus!"
+    },
+    {
+      "type": "paragraph",
+      "id": "f069ab8bafd3565f",
+      "text": "[http://www.chorus-home.org/ Website for Chorus]"
+    },
+    {
+      "type": "video",
+      "id": "3bd3ee870562de65",
+      "text": "VIMEO 106073134\nSubtext lives in Chorus"
+    },
+    {
+      "type": "paragraph",
+      "id": "e946144dce846355",
+      "text": "[http://www.subtext-lang.org/ Website for Subtext]"
+    },
+    {
+      "type": "paragraph",
+      "id": "29a509fb1b8d9068",
+      "text": "[[Jonathan Edwards]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "26458638e9cb82f6",
+      "text": "[http://www.jbox.dk/quotations.htm quotations on ss]"
+    },
+    {
+      "type": "paragraph",
+      "id": "5a943e8f48d80fc8",
+      "text": "[[push notifications]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Software simplicity",
+        "story": []
+      },
+      "date": 1479223566004
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8c936157ed296299"
+      },
+      "id": "8c936157ed296299",
+      "type": "add",
+      "date": 1479223568093
+    },
+    {
+      "type": "edit",
+      "id": "8c936157ed296299",
+      "item": {
+        "type": "video",
+        "id": "8c936157ed296299",
+        "text": "YOUTUBE XBpwysZtkkQ\nWould you believe Hypercard?"
+      },
+      "date": 1479223652802
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2b89668c4f7aa013"
+      },
+      "id": "2b89668c4f7aa013",
+      "type": "add",
+      "after": "8c936157ed296299",
+      "date": 1479224073125
+    },
+    {
+      "type": "edit",
+      "id": "2b89668c4f7aa013",
+      "item": {
+        "type": "paragraph",
+        "id": "2b89668c4f7aa013",
+        "text": "Published on Jan 25, 2016\n\n"
+      },
+      "date": 1479224094398
+    },
+    {
+      "type": "add",
+      "id": "74dec2c7b8d68ad0",
+      "item": {
+        "type": "paragraph",
+        "id": "74dec2c7b8d68ad0",
+        "text": "Say you have started a book club. You need to coordinate with the members to choose books to read, schedule meetings, decide who is bringing the wine and cheese, etc. "
+      },
+      "after": "2b89668c4f7aa013",
+      "date": 1479224100640
+    },
+    {
+      "type": "add",
+      "id": "d9997af53e6d57c5",
+      "item": {
+        "type": "paragraph",
+        "id": "d9997af53e6d57c5",
+        "text": "You probably use some spreadsheets, some web services like message forums and polls — and make it all work with a flood of email. "
+      },
+      "after": "74dec2c7b8d68ad0",
+      "date": 1479224107498
+    },
+    {
+      "type": "add",
+      "id": "8df0f09cfd51cdaa",
+      "item": {
+        "type": "paragraph",
+        "id": "8df0f09cfd51cdaa",
+        "text": "You watch your life passing by as you robotically copy and paste between email and spreadsheets and all these services. "
+      },
+      "after": "d9997af53e6d57c5",
+      "date": 1479224114475
+    },
+    {
+      "type": "add",
+      "id": "a97e2e29a5e64d2f",
+      "item": {
+        "type": "paragraph",
+        "id": "a97e2e29a5e64d2f",
+        "text": "What you want is a custom website like a Rails app or a Drupal installation, but you were an English major. "
+      },
+      "after": "8df0f09cfd51cdaa",
+      "date": 1479224130536
+    },
+    {
+      "type": "add",
+      "id": "968b4f7babd3e95c",
+      "item": {
+        "type": "paragraph",
+        "id": "968b4f7babd3e95c",
+        "text": "What you need is a tool as easy to learn as a spreadsheet or [[HyperCard]]."
+      },
+      "after": "a97e2e29a5e64d2f",
+      "date": 1479224161049
+    },
+    {
+      "type": "add",
+      "id": "6f973f96c308cb2f",
+      "item": {
+        "type": "paragraph",
+        "id": "6f973f96c308cb2f",
+        "text": "It should be one designed to build ad-hoc social applications. "
+      },
+      "after": "968b4f7babd3e95c",
+      "date": 1479224189752
+    },
+    {
+      "type": "add",
+      "id": "eae47d5c065b0256",
+      "item": {
+        "type": "paragraph",
+        "id": "eae47d5c065b0256",
+        "text": "Of course it should be at home on the dominant platform for social software: [[smartphones]]."
+      },
+      "after": "6f973f96c308cb2f",
+      "date": 1479224215947
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a3ea13ea0ef9ebac"
+      },
+      "id": "a3ea13ea0ef9ebac",
+      "type": "add",
+      "after": "eae47d5c065b0256",
+      "date": 1479224888482
+    },
+    {
+      "type": "edit",
+      "id": "a3ea13ea0ef9ebac",
+      "item": {
+        "type": "video",
+        "id": "a3ea13ea0ef9ebac",
+        "text": "VIMEO"
+      },
+      "date": 1479224904322
+    },
+    {
+      "type": "edit",
+      "id": "a3ea13ea0ef9ebac",
+      "item": {
+        "type": "video",
+        "id": "a3ea13ea0ef9ebac",
+        "text": "VIMEO https://www.reddit.com/r/compsci/comments/57h8hc/jonathan_edwards_chorus_demo/"
+      },
+      "date": 1479224942858
+    },
+    {
+      "type": "edit",
+      "id": "a3ea13ea0ef9ebac",
+      "item": {
+        "type": "video",
+        "id": "a3ea13ea0ef9ebac",
+        "text": "VIMEO 179904952"
+      },
+      "date": 1479225069879
+    },
+    {
+      "type": "edit",
+      "id": "a3ea13ea0ef9ebac",
+      "item": {
+        "type": "video",
+        "id": "a3ea13ea0ef9ebac",
+        "text": "VIMEO 179904952\nCall it Chorus!"
+      },
+      "date": 1479225118337
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f069ab8bafd3565f"
+      },
+      "id": "f069ab8bafd3565f",
+      "type": "add",
+      "after": "a3ea13ea0ef9ebac",
+      "date": 1479225410216
+    },
+    {
+      "type": "edit",
+      "id": "f069ab8bafd3565f",
+      "item": {
+        "type": "paragraph",
+        "id": "f069ab8bafd3565f",
+        "text": "[http://www.chorus-home.org/ Website for Chorus]"
+      },
+      "date": 1479225431240
+    },
+    {
+      "type": "add",
+      "id": "e946144dce846355",
+      "item": {
+        "type": "paragraph",
+        "id": "e946144dce846355",
+        "text": "[http://www.subtext-lang.org/ Website for Subtext]"
+      },
+      "after": "f069ab8bafd3565f",
+      "date": 1479225534260
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3bd3ee870562de65"
+      },
+      "id": "3bd3ee870562de65",
+      "type": "add",
+      "after": "e946144dce846355",
+      "date": 1479225568599
+    },
+    {
+      "type": "edit",
+      "id": "3bd3ee870562de65",
+      "item": {
+        "type": "video",
+        "id": "3bd3ee870562de65",
+        "text": "VIMEO 106073134\nSubtext lives in Chorus"
+      },
+      "date": 1479225597551
+    },
+    {
+      "type": "move",
+      "order": [
+        "8c936157ed296299",
+        "2b89668c4f7aa013",
+        "74dec2c7b8d68ad0",
+        "d9997af53e6d57c5",
+        "8df0f09cfd51cdaa",
+        "a97e2e29a5e64d2f",
+        "968b4f7babd3e95c",
+        "6f973f96c308cb2f",
+        "eae47d5c065b0256",
+        "a3ea13ea0ef9ebac",
+        "f069ab8bafd3565f",
+        "3bd3ee870562de65",
+        "e946144dce846355"
+      ],
+      "id": "e946144dce846355",
+      "date": 1479225603934
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5a943e8f48d80fc8"
+      },
+      "id": "5a943e8f48d80fc8",
+      "type": "add",
+      "after": "e946144dce846355",
+      "date": 1479226070107
+    },
+    {
+      "type": "edit",
+      "id": "5a943e8f48d80fc8",
+      "item": {
+        "type": "paragraph",
+        "id": "5a943e8f48d80fc8",
+        "text": "[[push notifications]]"
+      },
+      "date": 1479226092176
+    },
+    {
+      "type": "add",
+      "id": "29a509fb1b8d9068",
+      "item": {
+        "type": "paragraph",
+        "id": "29a509fb1b8d9068",
+        "text": "[[Jonathan Edwards]]"
+      },
+      "after": "e946144dce846355",
+      "date": 1479227482922
+    },
+    {
+      "type": "add",
+      "id": "26458638e9cb82f6",
+      "item": {
+        "type": "paragraph",
+        "id": "26458638e9cb82f6",
+        "text": "[http://www.jbox.dk/quotations.htm quotations on ss]"
+      },
+      "after": "29a509fb1b8d9068",
+      "date": 1479228182842
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "html",
+        "id": "7b19955cfe8ee9d4",
+        "text": "<i>Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius - and a lot of courage - to move in the opposite direction.</i>\n<hr>\n-- Albert Einstein"
+      },
+      "id": "7b19955cfe8ee9d4",
+      "date": 1479228349032
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "title": "push notifications",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "d6120d85f8bf7791",
+      "text": "Notion: in SFW we can realize [[PUSH by LISTENING]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "push notifications",
+        "story": []
+      },
+      "date": 1479226096622
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "adefe97126e01926"
+      },
+      "id": "adefe97126e01926",
+      "type": "add",
+      "date": 1479226132026
+    },
+    {
+      "type": "edit",
+      "id": "adefe97126e01926",
+      "item": {
+        "type": "paragraph",
+        "id": "adefe97126e01926",
+        "text": "What are push notifications?\n\nA push notification is a message that pops up on a mobile device. App publishers can send them at any time; users don't have to be in the app or using their devices to receive them. They can do a lot of things; for example, they can show the latest sports scores, get a user to take an action, such as downloading a coupon, or let a user know about an event, such as a flash sale.\n\nPush notifications look like SMS text messages and mobile alerts, but they only reach users who have installed your app. "
+      },
+      "date": 1479226145038
+    },
+    {
+      "type": "add",
+      "id": "1f1c5d4a7f93f514",
+      "item": {
+        "type": "paragraph",
+        "id": "1f1c5d4a7f93f514",
+        "text": "Each mobile platform has support for push notifications — iOS, Android, Fire OS, Windows and BlackBerry all have their own services."
+      },
+      "after": "adefe97126e01926",
+      "date": 1479226149269
+    },
+    {
+      "type": "edit",
+      "id": "adefe97126e01926",
+      "item": {
+        "type": "paragraph",
+        "id": "adefe97126e01926",
+        "text": "What are push notifications?\n\nA push notification is a message that pops up on a mobile device. App publishers can send them at any time; users don't have to be in the app or using their devices to receive them. "
+      },
+      "date": 1479226152802
+    },
+    {
+      "type": "add",
+      "id": "b163e2c5efd58019",
+      "item": {
+        "type": "paragraph",
+        "id": "b163e2c5efd58019",
+        "text": "They can do a lot of things; for example, they can show the latest sports scores, get a user to take an action, such as downloading a coupon, or let a user know about an event, such as a flash sale.\n\n"
+      },
+      "after": "adefe97126e01926",
+      "date": 1479226158907
+    },
+    {
+      "type": "add",
+      "id": "1a6ab62450df240d",
+      "item": {
+        "type": "paragraph",
+        "id": "1a6ab62450df240d",
+        "text": "Push notifications look like SMS text messages and mobile alerts, but they only reach users who have installed your app. "
+      },
+      "after": "b163e2c5efd58019",
+      "date": 1479226161663
+    },
+    {
+      "type": "edit",
+      "id": "adefe97126e01926",
+      "item": {
+        "type": "paragraph",
+        "id": "adefe97126e01926",
+        "text": "What are push notifications?\n\nA push notification is a message that pops up on a mobile device. "
+      },
+      "date": 1479226169753
+    },
+    {
+      "type": "add",
+      "id": "13ca7cc95d046bc3",
+      "item": {
+        "type": "paragraph",
+        "id": "13ca7cc95d046bc3",
+        "text": "App publishers can send them at any time; users don't have to be in the app or using their devices to receive them. "
+      },
+      "after": "adefe97126e01926",
+      "date": 1479226172125
+    },
+    {
+      "type": "edit",
+      "id": "adefe97126e01926",
+      "item": {
+        "type": "paragraph",
+        "id": "adefe97126e01926",
+        "text": "[[What are push notifications?]]\n\n"
+      },
+      "date": 1479226211968
+    },
+    {
+      "type": "add",
+      "id": "87bdc3ed2c35dbee",
+      "item": {
+        "type": "paragraph",
+        "id": "87bdc3ed2c35dbee",
+        "text": "A push notification is a message that pops up on a mobile device. "
+      },
+      "after": "adefe97126e01926",
+      "date": 1479226213620
+    },
+    {
+      "type": "remove",
+      "id": "87bdc3ed2c35dbee",
+      "date": 1479226220489
+    },
+    {
+      "type": "remove",
+      "id": "b163e2c5efd58019",
+      "date": 1479226231160
+    },
+    {
+      "type": "remove",
+      "id": "1a6ab62450df240d",
+      "date": 1479226239626
+    },
+    {
+      "type": "remove",
+      "id": "13ca7cc95d046bc3",
+      "date": 1479226256924
+    },
+    {
+      "type": "remove",
+      "id": "1f1c5d4a7f93f514",
+      "date": 1479226261812
+    },
+    {
+      "type": "add",
+      "id": "d6120d85f8bf7791",
+      "item": {
+        "type": "paragraph",
+        "id": "d6120d85f8bf7791",
+        "text": "Notion: in SFW we can realize [[PUSH by LISTENING]]"
+      },
+      "after": "adefe97126e01926",
+      "date": 1479228915291
+    },
+    {
+      "type": "remove",
+      "id": "adefe97126e01926",
+      "date": 1479232835763
+    }
+  ]
+}
