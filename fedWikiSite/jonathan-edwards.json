@@ -1,0 +1,99 @@
+{
+  "title": "Jonathan Edwards",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "c12a7415c896f73a",
+      "text": "[http://alarmingdevelopment.org/ his blog - Alarming Development]"
+    },
+    {
+      "type": "paragraph",
+      "id": "107ec7d56a5c9b33",
+      "text": "[http://www.subtext-lang.org/young.jpg as a young man]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Jonathan Edwards",
+        "story": []
+      },
+      "date": 1479227486229
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c12a7415c896f73a"
+      },
+      "id": "c12a7415c896f73a",
+      "type": "add",
+      "date": 1479227488480
+    },
+    {
+      "type": "edit",
+      "id": "c12a7415c896f73a",
+      "item": {
+        "type": "paragraph",
+        "id": "c12a7415c896f73a",
+        "text": "[[http://alarmingdevelopment.org/ his blog - Alarming Development]"
+      },
+      "date": 1479227522341
+    },
+    {
+      "type": "edit",
+      "id": "c12a7415c896f73a",
+      "item": {
+        "type": "paragraph",
+        "id": "c12a7415c896f73a",
+        "text": "[http://alarmingdevelopment.org/ his blog - Alarming Development]"
+      },
+      "date": 1479227532144
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "107ec7d56a5c9b33"
+      },
+      "id": "107ec7d56a5c9b33",
+      "type": "add",
+      "after": "c12a7415c896f73a",
+      "date": 1479227639096
+    },
+    {
+      "type": "edit",
+      "id": "107ec7d56a5c9b33",
+      "item": {
+        "type": "paragraph",
+        "id": "107ec7d56a5c9b33",
+        "text": "[http://www.subtext-lang.org/young.jpg as a young man]"
+      },
+      "date": 1479227669560
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3158b30549f87417"
+      },
+      "id": "3158b30549f87417",
+      "type": "add",
+      "after": "107ec7d56a5c9b33",
+      "date": 1479227691427
+    },
+    {
+      "type": "edit",
+      "id": "3158b30549f87417",
+      "item": {
+        "type": "slide",
+        "id": "3158b30549f87417",
+        "text": "http://www.subtext-lang.org/young.jpg"
+      },
+      "date": 1479227722583
+    },
+    {
+      "type": "remove",
+      "id": "3158b30549f87417",
+      "date": 1479227747874
+    }
+  ]
+}
