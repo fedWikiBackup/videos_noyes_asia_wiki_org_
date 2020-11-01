@@ -1,0 +1,220 @@
+{
+  "title": "PUSH by LISTENING",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "adefe97126e01926",
+      "text": "[[What are push notifications?]]\n\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "36e13807f7bb5995",
+      "text": "If we look at what most people want to do when [[pushing stuff]] is that they want to let people know that a something has changed, and that if interested in changes, you need only LISTEN IN on an appropriate [[Changes Channel]]. "
+    },
+    {
+      "type": "paragraph",
+      "id": "eed9876e5284bdfe",
+      "text": "For SFW, that would be the [[Recent Changes]] Page"
+    },
+    {
+      "type": "paragraph",
+      "id": "ff0cbc31d8572ea8",
+      "text": "I think the SFW software already exists which allow pages which are of a different modification date to have their version information affect their site icon positioning in the icon line-up in [[Recent Changes]] for pages in the current neighborhood."
+    },
+    {
+      "type": "paragraph",
+      "id": "9db722f6cdfc2aa9",
+      "text": "It seems that a modification of this apparatus which will trigger notification to you, regardless of whether or not you have Recent Changes up in your current page line-up, may be an almost trivial task in either the Server or Client processes. "
+    },
+    {
+      "type": "paragraph",
+      "id": "b9a11f41db190f6b",
+      "text": "Similar to a Select the [[Recent Changes]] Page with the Shift-key down, adding the Recent Changes and the notifying page at the right of your line-up."
+    },
+    {
+      "type": "paragraph",
+      "id": "bcdb2ccae29525f3",
+      "text": "It could be tested and implimented by one familiar with the scripts which do this stuff."
+    },
+    {
+      "type": "paragraph",
+      "id": "f078470044d78e2d",
+      "text": "[[Call for test of notion - PushByListening]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "PUSH by LISTENING",
+        "story": []
+      },
+      "date": 1479228923495
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "36e13807f7bb5995"
+      },
+      "id": "36e13807f7bb5995",
+      "type": "add",
+      "date": 1479228926376
+    },
+    {
+      "type": "edit",
+      "id": "36e13807f7bb5995",
+      "item": {
+        "type": "paragraph",
+        "id": "36e13807f7bb5995",
+        "text": "If we look at what most people want to do when [[pushing stuff]] is that they want to let people know that a something has changed, and that if interested in changes, you need only LISTEN IN on the [[Changes Channel]]."
+      },
+      "date": 1479229134764
+    },
+    {
+      "type": "add",
+      "id": "ff0cbc31d8572ea8",
+      "item": {
+        "type": "paragraph",
+        "id": "ff0cbc31d8572ea8",
+        "text": "I think the SFW software already exists which allow pages which are of a different modification date to have their version information affect their site icon positioning in the icon line-up in [[Recent Changes]] for pages in your neighborhood."
+      },
+      "after": "36e13807f7bb5995",
+      "date": 1479229633384
+    },
+    {
+      "type": "add",
+      "id": "9db722f6cdfc2aa9",
+      "item": {
+        "type": "paragraph",
+        "id": "9db722f6cdfc2aa9",
+        "text": "It seems that a modification of this apparatus which will trigger notification to you, regardless of whether or not you have Recent Changes up in your current page line-up."
+      },
+      "after": "ff0cbc31d8572ea8",
+      "date": 1479229785211
+    },
+    {
+      "type": "edit",
+      "id": "36e13807f7bb5995",
+      "item": {
+        "type": "paragraph",
+        "id": "36e13807f7bb5995",
+        "text": "If we look at what most people want to do when [[pushing stuff]] is that they want to let people know that a something has changed, and that if interested in changes, you need only LISTEN IN on an appropriate [[Changes Channel]]."
+      },
+      "date": 1479230011272
+    },
+    {
+      "type": "edit",
+      "id": "9db722f6cdfc2aa9",
+      "item": {
+        "type": "paragraph",
+        "id": "9db722f6cdfc2aa9",
+        "text": "It seems that a modification of this apparatus which will trigger notification to you, regardless of whether or not you have Recent Changes up in your current page line-up, may be an almost trivial task in either the Server or Client processes."
+      },
+      "date": 1479230089083
+    },
+    {
+      "type": "edit",
+      "id": "9db722f6cdfc2aa9",
+      "item": {
+        "type": "paragraph",
+        "id": "9db722f6cdfc2aa9",
+        "text": "It seems that a modification of this apparatus which will trigger notification to you, regardless of whether or not you have Recent Changes up in your current page line-up, may be an almost trivial task in either the Server or Client processes. Similar to a Select the [[Recent Changes]] Page with the Shift-key down, adding the Recent Changes and the notifying page at the right of your line-up."
+      },
+      "date": 1479230376509
+    },
+    {
+      "type": "add",
+      "id": "bcdb2ccae29525f3",
+      "item": {
+        "type": "paragraph",
+        "id": "bcdb2ccae29525f3",
+        "text": "It could be tested and implimented by one familiar with the scripts which do this stuff."
+      },
+      "after": "9db722f6cdfc2aa9",
+      "date": 1479230474636
+    },
+    {
+      "type": "add",
+      "id": "f078470044d78e2d",
+      "item": {
+        "type": "paragraph",
+        "id": "f078470044d78e2d",
+        "text": "[[Call for test of notion - PushByListening]]"
+      },
+      "after": "bcdb2ccae29525f3",
+      "date": 1479230501338
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "adefe97126e01926",
+        "text": "[[What are push notifications?]]\n\n"
+      },
+      "id": "adefe97126e01926",
+      "date": 1479232835774
+    },
+    {
+      "type": "edit",
+      "id": "36e13807f7bb5995",
+      "item": {
+        "type": "paragraph",
+        "id": "36e13807f7bb5995",
+        "text": "If we look at what most people want to do when [[pushing stuff]] is that they want to let people know that a something has changed, and that if interested in changes, you need only LISTEN IN on an appropriate [[Changes Channel]]. For SFW, that would be the [[Recent Changes Page]]"
+      },
+      "date": 1479233246024
+    },
+    {
+      "type": "edit",
+      "id": "ff0cbc31d8572ea8",
+      "item": {
+        "type": "paragraph",
+        "id": "ff0cbc31d8572ea8",
+        "text": "I think the SFW software already exists which allow pages which are of a different modification date to have their version information affect their site icon positioning in the icon line-up in [[Recent Changes]] for pages in the current neighborhood."
+      },
+      "date": 1479233293735
+    },
+    {
+      "type": "edit",
+      "id": "36e13807f7bb5995",
+      "item": {
+        "type": "paragraph",
+        "id": "36e13807f7bb5995",
+        "text": "If we look at what most people want to do when [[pushing stuff]] is that they want to let people know that a something has changed, and that if interested in changes, you need only LISTEN IN on an appropriate [[Changes Channel]]. "
+      },
+      "date": 1509998236776
+    },
+    {
+      "type": "add",
+      "id": "eed9876e5284bdfe",
+      "item": {
+        "type": "paragraph",
+        "id": "eed9876e5284bdfe",
+        "text": "For SFW, that would be the [[Recent Changes]] Page"
+      },
+      "after": "36e13807f7bb5995",
+      "date": 1509998255918
+    },
+    {
+      "type": "edit",
+      "id": "9db722f6cdfc2aa9",
+      "item": {
+        "type": "paragraph",
+        "id": "9db722f6cdfc2aa9",
+        "text": "It seems that a modification of this apparatus which will trigger notification to you, regardless of whether or not you have Recent Changes up in your current page line-up, may be an almost trivial task in either the Server or Client processes. "
+      },
+      "date": 1509998305915
+    },
+    {
+      "type": "add",
+      "id": "b9a11f41db190f6b",
+      "item": {
+        "type": "paragraph",
+        "id": "b9a11f41db190f6b",
+        "text": "Similar to a Select the [[Recent Changes]] Page with the Shift-key down, adding the Recent Changes and the notifying page at the right of your line-up."
+      },
+      "after": "9db722f6cdfc2aa9",
+      "date": 1509998318561
+    }
+  ]
+}
