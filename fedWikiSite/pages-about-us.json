@@ -1,0 +1,122 @@
+{
+  "title": "Pages about us",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "69f2d39717c1dac5",
+      "text": "Site claimed by [[Donald R Noyes]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "8d73824bca98cf16",
+      "text": "Purpose is [[Technology Videos]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "b7f3a11dd3dfa642",
+      "text": "Focus is [[Software simplicity]] 2016"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Pages about us",
+        "story": []
+      },
+      "date": 1473003003652
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "69f2d39717c1dac5"
+      },
+      "id": "69f2d39717c1dac5",
+      "type": "add",
+      "date": 1473003005744
+    },
+    {
+      "type": "edit",
+      "id": "69f2d39717c1dac5",
+      "item": {
+        "type": "paragraph",
+        "id": "69f2d39717c1dac5",
+        "text": "Site claimed by [[Donald R Noyes]]"
+      },
+      "date": 1473003032571
+    },
+    {
+      "type": "add",
+      "id": "8d73824bca98cf16",
+      "item": {
+        "type": "paragraph",
+        "id": "8d73824bca98cf16",
+        "text": "Purpose is [[Technology Videos]]"
+      },
+      "after": "69f2d39717c1dac5",
+      "date": 1473003071707
+    },
+    {
+      "type": "add",
+      "id": "b7f3a11dd3dfa642",
+      "item": {
+        "type": "paragraph",
+        "id": "b7f3a11dd3dfa642",
+        "text": "Focus is [[Software simplicity]]"
+      },
+      "after": "8d73824bca98cf16",
+      "date": 1479223381248
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7b19955cfe8ee9d4"
+      },
+      "id": "7b19955cfe8ee9d4",
+      "type": "add",
+      "after": "b7f3a11dd3dfa642",
+      "date": 1479228290207
+    },
+    {
+      "type": "edit",
+      "id": "7b19955cfe8ee9d4",
+      "item": {
+        "type": "html",
+        "id": "7b19955cfe8ee9d4",
+        "text": "<i>Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius - and a lot of courage - to move in the opposite direction.</i>\n<hr>\n-- Albert Einstein"
+      },
+      "date": 1479228325377
+    },
+    {
+      "type": "remove",
+      "id": "7b19955cfe8ee9d4",
+      "date": 1479228349023
+    },
+    {
+      "type": "edit",
+      "id": "b7f3a11dd3dfa642",
+      "item": {
+        "type": "paragraph",
+        "id": "b7f3a11dd3dfa642",
+        "text": "Focus is [[Software simplicity]] 2016"
+      },
+      "date": 1509988582241
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "graphviz",
+        "id": "322fe0cf57d18472",
+        "text": "DOT FROM preview-next-diagram"
+      },
+      "after": "b7f3a11dd3dfa642",
+      "id": "322fe0cf57d18472",
+      "date": 1565815511878
+    },
+    {
+      "type": "remove",
+      "id": "322fe0cf57d18472",
+      "date": 1565815535380
+    }
+  ]
+}
