@@ -1,0 +1,99 @@
+{
+  "title": "some-tricks-and-novel-usages",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "be50865ff9800c17",
+      "text": "[[Historical and Daily Urls of interest]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "some-tricks-and-novel-usages",
+        "story": []
+      },
+      "date": 1479231769284
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d17e406b54a60ab6"
+      },
+      "id": "d17e406b54a60ab6",
+      "type": "add",
+      "date": 1479231771406
+    },
+    {
+      "type": "edit",
+      "id": "d17e406b54a60ab6",
+      "item": {
+        "type": "paragraph",
+        "id": "d17e406b54a60ab6",
+        "text": "I have a notion: Use drag and drop and an old-fashioned 3.5 inch floppy drive for [[Historical and Daily Urls of interest]]."
+      },
+      "date": 1479231869031
+    },
+    {
+      "type": "add",
+      "id": "78e849ce10f851f1",
+      "item": {
+        "type": "paragraph",
+        "id": "78e849ce10f851f1",
+        "text": "Then I can find a site I remembered and go to it with a [[single click of the mouse]]."
+      },
+      "after": "d17e406b54a60ab6",
+      "date": 1479231928508
+    },
+    {
+      "type": "edit",
+      "id": "78e849ce10f851f1",
+      "item": {
+        "type": "paragraph",
+        "id": "78e849ce10f851f1",
+        "text": "Then I can find a site visited I remembered having saved to floppy, and go to it with a [[double-click of the mouse]]."
+      },
+      "date": 1479232026768
+    },
+    {
+      "type": "edit",
+      "id": "78e849ce10f851f1",
+      "item": {
+        "type": "paragraph",
+        "id": "78e849ce10f851f1",
+        "text": "Then I can find a site visited I remembered having saved to floppy, by accessing the floppy directory and going to the site with a simple [[double-click of the mouse]]."
+      },
+      "date": 1479232125877
+    },
+    {
+      "type": "remove",
+      "id": "d17e406b54a60ab6",
+      "date": 1479232240312
+    },
+    {
+      "type": "remove",
+      "id": "78e849ce10f851f1",
+      "date": 1479232243174
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "be50865ff9800c17"
+      },
+      "id": "be50865ff9800c17",
+      "type": "add",
+      "date": 1479232266575
+    },
+    {
+      "type": "edit",
+      "id": "be50865ff9800c17",
+      "item": {
+        "type": "paragraph",
+        "id": "be50865ff9800c17",
+        "text": "[[Historical and Daily Urls of interest]]"
+      },
+      "date": 1479232272672
+    }
+  ]
+}
